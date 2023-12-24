@@ -18,4 +18,4 @@ for improving coding skills and preparing for technical interviews. The solution
 
 ### List of problems : 
 
-* [romanTointeger.py](./romanTointeger.py)
+* [romanTointeger.py](./roman to integer/romanTointeger.py)
