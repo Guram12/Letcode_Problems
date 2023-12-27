@@ -20,4 +20,4 @@ for improving coding skills and preparing for technical interviews. The solution
 
 * [romanTointeger.py](./roman%20to%20integer/)
 * [longestCommonPrefix.py](./Longest%20Common%20Prefix/)
-* [SearchInsertPosition.pi](./Search%20Insert%20Position/)
+* [SearchInsertPosition.py](./Search%20Insert%20Position/)
